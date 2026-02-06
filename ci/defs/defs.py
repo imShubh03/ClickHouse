@@ -327,7 +327,7 @@ class JobNames:
     STYLE_CHECK = "Style check"
     PR_BODY = "PR formatter"
     FAST_TEST = "Fast test"
-    FAST_TEST_MACOS = "Fast test (darwin)"
+    FAST_TEST_MACOS = "Fast test (arm_darwin)"
     BUILD = "Build"
     UNITTEST = "Unit tests"
     STATELESS = "Stateless tests"
